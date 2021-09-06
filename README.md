@@ -1,5 +1,5 @@
 # pyinstaller_example
- Demonstration of pyinstaller usage
+ Demonstration of pyinstaller usage, the demonstration is done using cmd prompt windows. Video is attached for reference.
 
 ## Pre-requisite (tested version)
 Make sure these 2 package are in system
