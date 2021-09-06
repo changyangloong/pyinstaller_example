@@ -40,7 +40,7 @@ pyinstaller main.py --onedir
 
 ## Running the example
 In the example, main.py (provided in the repo), no GUI is created, just simple bash program, so we had to run on cmd to observe the output, else, the program will not be visible.  
-The program will work even outside of the virtualenv
+The program will work even outside of the virtualenv  
 Locate the exe,
 ```bash
 ## for --onedir example
