@@ -2,7 +2,7 @@
  Demonstration of pyinstaller usage, the demonstration is done using cmd prompt windows. Video is attached for reference.
 
 ## Pre-requisite (tested version)
-Make sure these 2 package are in system
+Make sure these 2 packages are in system 
 Python >= 3.6.8 
 Virtualenv >= 20.0.27
 
